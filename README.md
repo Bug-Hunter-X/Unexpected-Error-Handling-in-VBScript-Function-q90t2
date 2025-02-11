@@ -1,0 +1,1 @@
+This example demonstrates a common issue in VBScript where error handling using `Err.Raise` might not behave as expected, particularly when dealing with empty or missing function parameters.  The solution refactors the error handling for better clarity and robustness.
